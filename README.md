@@ -24,6 +24,34 @@ I simulate attacker techniques in controlled lab environments to better understa
 
 ---
 
+## 🧰 Technical Skills
+
+**Networking**
+- Network segmentation
+- Subnetting & IP planning
+- Static routing
+- DHCP configuration
+- Access Control Lists (ACL)
+
+**Linux Security**
+- Sudo privilege auditing
+- SUID binary enumeration
+- Cron job inspection
+- Authentication log analysis
+
+**Python**
+- CLI tool development
+- File handling & wordlist processing
+- Command-line argument parsing (`sys.argv`)
+
+**Security Concepts**
+- Authentication monitoring
+- Privilege escalation analysis
+- Security log observation
+- Detection-focused lab simulations
+
+---
+
 ## 🧪 Lab Methodology
 
 My labs follow a structured security workflow:
