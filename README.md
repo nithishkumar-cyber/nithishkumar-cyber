@@ -72,9 +72,8 @@ These repositories document my hands-on cybersecurity labs and investigation exe
 
 ## 📌 Featured Projects
 
-🔸 [Network Segmentation & ACL Security Validation Lab](https://github.com/NerdNithish/network-acl-evasion-lab)  
-🔸 [Linux Log Analysis & Privilege Escalation Detection Lab](https://github.com/NerdNithish/linux-privesc-log-lab)  
-🔸 [Python Security Testing Toolkit](https://github.com/NerdNithish/red-team-cli-toolkit)
+🔸 [Network Segmentation & ACL Security Validation Lab](https://github.com/nithishkumar-cyber/network-segmentation-access-control-lab)  
+🔸 [Python Security Testing Toolkit](https://github.com/nithishkumar-cyber/python-authentication-testing-toolkit)
 
 ---
 
