@@ -1,88 +1,95 @@
 # 👋 Hey, I’m Nithishkumar
 
-🔐 SOC-focused cybersecurity student building hands-on lab experience in log analysis, network segmentation, Linux security monitoring, and structured incident investigation.
+SOC-focused cybersecurity learner building hands-on experience in **log analysis, incident investigation, and network security validation**.
 
-📍 India | Open to SOC / Cybersecurity Internship Opportunities
-
-My approach:  
-I simulate attacker techniques in controlled lab environments to better understand detection patterns, logging behavior, and defensive response workflows.
+India | Open to **SOC Analyst (L1) / Cybersecurity Internship Roles**
 
 ---
 
-## 🛠️ Current Focus
+## 🧠 What I Do
 
-• SIEM-based alert triage and authentication monitoring  
-• Linux privilege escalation detection patterns  
-• Network segmentation & access control validation  
-• Python-based security testing automation
+I build structured lab environments to simulate real-world security scenarios and analyze:
 
----
-
-## 🧰 Tools & Technologies
-
-`Linux` · `Bash` · `Python` · `Splunk` · `Wireshark` · `tcpdump` · `Nmap` · `Cisco Packet Tracer`
+- How security events are generated
+    
+- How attacker activity appears in logs
+    
+- How incidents can be detected and investigated
+    
 
 ---
 
-## 🧰 Technical Skills
+## 🛠️ Core Skills
 
-**Networking**
-- Network segmentation
-- Subnetting & IP planning
-- Static routing
-- DHCP configuration
+### Log Analysis & Investigation
+
+- Linux authentication logs (`auth.log`)
+    
+- Brute force detection patterns
+    
+- Privilege escalation tracking (`sudo`)
+    
+- Persistence detection (cron jobs)
+    
+- Timeline reconstruction & IOC identification
+    
+
+### 🌐 Networking & Security
+
+- Network segmentation (VLANs, subnetting)
+    
 - Access Control Lists (ACL)
+    
+- DHCP, DNS, and routing fundamentals
+    
+- Traffic validation (ICMP, traceroute)
+    
 
-**Linux Security**
-- Sudo privilege auditing
-- SUID binary enumeration
-- Cron job inspection
-- Authentication log analysis
+### 🧰 Tools & Technologies
 
-**Python**
-- CLI tool development
-- File handling & wordlist processing
-- Command-line argument parsing (`sys.argv`)
-
-**Security Concepts**
-- Authentication monitoring
-- Privilege escalation analysis
-- Security log observation
-- Detection-focused lab simulations
+`Linux` · `Bash` · `Python` · `Wireshark` · `tcpdump` · `Cisco Packet Tracer`
 
 ---
 
-## 🧪 Lab Methodology
+## 🧪 Lab Approach
 
-My labs follow a structured security workflow:
-
-1️⃣ Simulate attacker behavior in a controlled environment  
-2️⃣ Observe log generation and system behavior  
-3️⃣ Analyze logs to detect attacker activity  
-4️⃣ Document detection patterns and investigation steps
-
-## 📂 Lab Portfolio
-
-These repositories document my hands-on cybersecurity labs and investigation exercises.
-
-🔹 Network security simulations  
-🔹 Linux log analysis investigations  
-🔹 Privilege escalation detection labs  
-🔹 Python-based security tooling experiments
-
-## 📌 Featured Projects
-
-🔸 [Network Segmentation & ACL Security Validation Lab](https://github.com/nithishkumar-cyber/network-segmentation-access-control-lab)  
-🔸 [Python Security Testing Toolkit](https://github.com/nithishkumar-cyber/python-authentication-testing-toolkit)
+Simulate realistic scenarios in controlled environments  
+Observe system and log behavior  
+Investigate artifacts like a SOC analyst  
+Document findings with clear evidence
 
 ---
 
-## 🎯 Career Direction
+## 📂 Portfolio
 
-Actively seeking **SOC / Cybersecurity internship opportunities** to apply hands-on detection, investigation, and log analysis skills in a professional environment.
+🔗 [https://github.com/nithishkumar-cyber/Cybersecurity-Lab-Portfolio](https://github.com/nithishkumar-cyber/Cybersecurity-Lab-Portfolio)
 
 ---
 
-📬 [LinkedIn](https://www.linkedin.com/in/nithish-kumar-cyber)
+## 📌 Featured Work
 
-💬 Always open to learning, collaboration, and cybersecurity discussions.
+- Linux SOC Incident Investigation (Privilege Escalation + Persistence)    
+- SSH Brute Force Detection & Timeline Reconstruction    
+- Network Segmentation & ACL Validation Lab
+- Network Security & Traffic Analysis Lab    
+- Python Authentication Testing Toolkit
+    
+
+---
+
+## 🎯 Career Goal
+
+Seeking entry-level opportunities in:
+
+- SOC Analyst (L1)
+    
+- Security Monitoring
+    
+- Incident Detection & Response
+    
+- IT / NOC roles as a pathway into SOC
+    
+
+---
+
+📬 [https://www.linkedin.com/in/nithish-kumar-cyber](https://www.linkedin.com/in/nithish-kumar-cyber)
